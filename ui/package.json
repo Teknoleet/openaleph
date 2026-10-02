@@ -29,7 +29,7 @@
     "js-file-download": "^0.4.9",
     "lodash": "^4.17.11",
     "maplibre-gl": "^5.15.0",
-    "moment": "^2.29.1",
+    "moment": "^2.31.0",
     "numeral": "^2.0.6",
     "papaparse": "^5.4.1",
     "query-string": "^8.1.0",
